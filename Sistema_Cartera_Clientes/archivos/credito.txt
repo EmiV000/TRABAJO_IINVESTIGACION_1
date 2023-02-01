@@ -1,0 +1,5 @@
+1|202301|12|Credito aprobado
+2|202301|9|Credito aprobado
+3|202301|6|Credito aprobado
+4|202301|24|Credito aprobado
+5|202301|36|Credito aprobado

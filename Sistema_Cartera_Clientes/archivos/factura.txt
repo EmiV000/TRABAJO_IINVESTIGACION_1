@@ -1,0 +1,5 @@
+1|Hernesto Gomez|600|Factura emitida|2023-01-31
+2|Juan Fernandez|1000|Factura emitida|2023-01-31
+3|Maria Cedeño|850|Factura emitida|2023-01-31
+4|Fernanda de los Angeles|1200|Factura emitida|2023-01-31
+5|Roberto Carlos |300|Factura emitida|2023-01-31

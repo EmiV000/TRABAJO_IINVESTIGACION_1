@@ -1,0 +1,15 @@
+1|Hernesto Gomez|0987456321|El cliente tiene credito
+2|Juan Fernandez|0123456789|El cliente tiene credito
+3|Maria Cedeño|0147852369|El cliente tiene credito
+4|Fernanda Gloria|0369852147|El cliente tiene credito
+5|Roberto Carlos|0948659752|El cliente tiene credito
+6|Salomon Quintero|099999999|El cliente tiene credito
+7|Bryan Oconor|0952631487|El cliente tiene credito
+8|Dominic Toretto|098541638|El cliente tiene credito
+9|Chun Li|098521463|El cliente tiene credito
+10|Letty Garcia|0923568974|El cliente tiene credito
+11|Cristiano Ronaldo |0984756821|El cliente tiene credito
+12|Lionel Messi|0952146397|El cliente tiene credito
+13|Andres Iniesta|087542169|El cliente tiene credito
+14|Manuel Neur|0936251478|El cliente tiene credito
+15|Jhon Wick|0925586933|El cliente tiene credito
